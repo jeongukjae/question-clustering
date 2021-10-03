@@ -25,7 +25,7 @@ Epoch 5/5
 229/229 [==============================] - 190s 825ms/step - loss: 1.9761 - categorical_accuracy: 0.6892 - top_k_categorical_accuracy: 0.9161 - val_loss: 3.2935 - val_categorical_accuracy: 0.4338 - val_top_k_categorical_accuracy: 0.6784
 ```
 
-## Search questions in the QQP validation dataset
+## Search similar questions in the QQP validation dataset
 
 ```text
 input sentence: good way to learn another thing
