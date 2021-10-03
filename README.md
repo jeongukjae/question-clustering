@@ -4,9 +4,9 @@ This repository contains the code to find similar questions using [NQ-Open datas
 
 ## Training Strategy
 
-<center>
-<img src="./img.png" width="50%">
-</center>
+<p align='center'>
+<img src="./img.png" width="80%">
+</p>
 
 I initialized both encoder using [`distilbert_en_uncased_L-6_H-768_A-12`](https://tfhub.dev/jeongukjae/distilbert_en_uncased_L-6_H-768_A-12/1) model. Both encoders don't share weights.
 
