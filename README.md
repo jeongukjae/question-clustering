@@ -100,3 +100,7 @@ input sentence: x^2
   Score: 0.679469585 , String: "What is derivation Of E=mc^2?"
   Score: 0.676228523 , String: "How is the graph of y = 2 x^2?"
 ```
+
+## Evaluate the model using STS-b validation set
+
+* Spearman Correlation: `SpearmanrResult(correlation=0.6779791831831614, pvalue=1.7896664834603342e-202)`
