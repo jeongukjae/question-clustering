@@ -1,4 +1,4 @@
-# Semantic Question Similarity
+# Finding similar questions via contrastive learning
 
 This repository contains the code to find similar questions using [NQ-Open dataset](https://www.tensorflow.org/datasets/catalog/natural_questions_open). The idea is very simple; similar questions will be answered similarly. The model takes question texts and finds appropriate answers in a contrastive objective.
 
